@@ -1,21 +1,29 @@
-# Homework #1
+# ДЗ #2
 
-Завдання: Виконати HTML-розмітку макета сторінки домашнього завдання #1, без CSS оформлення.
+Завдання: Виконати CSS оформлення макета сторінки дз#2 з підключенням шрифтів, нормалізатора стилів та оформленням усіх елементів відповідно до макета на фігмі
 
-## Resources
+## Ресурси
 
-[Design on Figma](https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio--Version-5.0-?node-id=296605-3&t=Li3Orc1ESvmjCkQb-0)
+[Design on Figma](https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio--Version-5.0-?node-id=296708-626&p=f&t=qHFIuU4OJCPJ2yjV-0)
 
-## What's Included
+## Cтруктура
+
 ```
-
 ├── index.html
 ├── README.md
 ├── .gitignore
 ├── .prettierrc
+├── css/
+│   └── styles.css
 ├── images/
 │   ├── mark-guerrero.jpg
 │   ├── tom-ford.jpg
 │   ├── camila-garcia.jpg
-│   └── daniel-wilson.jpg
+│   ├── daniel-wilson.jpg
+│   ├── banking-app.jpg
+│   ├── cashless-payment.jpg
+│   ├── meditation-app.jpg
+│   ├── taxi-service.jpg
+│   ├── screen-illustrations.jpg
+│   └── portfolio-online-courses.jpg
 ```
